@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Lil Jackson Site</title>
+    <link>https://blog.liljackson.xyz/tags/untagged/</link>
+    <description>Recent content in untagged on Lil Jackson Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Feb 2022 17:05:33 +0800</lastBuildDate><atom:link href="https://blog.liljackson.xyz/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://blog.liljackson.xyz/posts/hello/</link>
+      <pubDate>Thu, 24 Feb 2022 17:05:33 +0800</pubDate>
+      
+      <guid>https://blog.liljackson.xyz/posts/hello/</guid>
+      <description>HELM安装 Kube Prometheus监控集群 #helm https://artifacthub.io/packages/helm/prometheus-community/kube-prometheus-stack
+helm repo add prometheus-community https://prometheus-community.github.io/helm-charts helm upgrade kube-prometheus prometheus-community/kube-prometheus-stack -f ./kube-prometheus-stack.yaml </description>
+    </item>
+    
+  </channel>
+</rss>

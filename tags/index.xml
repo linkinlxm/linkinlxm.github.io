@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Lil Jackson Site</title>
+    <link>https://blog.liljackson.xyz/tags/</link>
+    <description>Recent content in Tags on Lil Jackson Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Feb 2022 17:05:33 +0800</lastBuildDate><atom:link href="https://blog.liljackson.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>untagged</title>
+      <link>https://blog.liljackson.xyz/tags/untagged/</link>
+      <pubDate>Thu, 24 Feb 2022 17:05:33 +0800</pubDate>
+      
+      <guid>https://blog.liljackson.xyz/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
